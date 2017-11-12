@@ -94,7 +94,7 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
-div.questions a.btn a:hover{
+div.questions a.btn {
   background-color: #0069d9;
   border-color: #0069d9;
 }
